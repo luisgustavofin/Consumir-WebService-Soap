@@ -21,3 +21,8 @@ print(client.service.nome_da_operacao_login('Primeiro atributo, seu user por exe
 # </nome_da_tag>
 #
 print( client.service.nome_da_operacao('Primeiro atributo', 'Segundo atributo', nome_da_tag="descricao"))
+
+
+#OBS:
+# para verificar as stubs::
+# python -m zeep <url-to-wsdl>
