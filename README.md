@@ -11,8 +11,10 @@ ou
 
 <br/><br/>
 Para Verificar as Stubs:
-- python -m zeep *(url-to-wsdl)*
- <br/><br/>Consumir de forma simples, rápida e prática.
+- python -m zeep *(url-to-wsdl)*<br/><br/>
+ 
+
+Consumir de forma simples, rápida e prática.<br/>
 Coloque seu endpoit, envie o que o request pede e veja a saída!!!
 
 <br/><br/>
