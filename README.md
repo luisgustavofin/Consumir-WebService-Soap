@@ -1,15 +1,15 @@
 # Consumir-WebService-Soap
 Consumindo webservice-soap em python em TRÊS LINHAS!!!
 
-Instalar a biblioteca Zeep:
+# Instalar a biblioteca Zeep:
 - pip install -r requirements.txt
 
 ou
 
 - pip install zeep
+\n
 
-
-Para Verificar as Stubs::
+Para Verificar as Stubs:
 - python -m zeep <url-to-wsdl>
  
  
