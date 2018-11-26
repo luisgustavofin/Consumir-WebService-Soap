@@ -1,5 +1,5 @@
 # Consumir-WebService-Soap
-Consumindo webservice-soap em python em DUAS LINHAS!!!
+Consumindo webservice-soap em python em TRÊS LINHAS!!!
 
 Instalar a biblioteca Zeep:
 - pip install -r requirements.txt
