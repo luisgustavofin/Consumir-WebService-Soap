@@ -10,7 +10,7 @@ ou
 - pip install zeep
 
 <br/><br/>
-Para Verificar as Stubs:
+:information_source: Para Verificar as Stubs:
 - python -m zeep *(url-to-wsdl)*<br/><br/>
  
 
